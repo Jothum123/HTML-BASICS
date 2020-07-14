@@ -1,7 +1,7 @@
 # HTML-BASICS
 This is a repo for HTML
 <DOCTYPE! html>
-<html lang="en">
+<html lang="en-US">
 	<head>
 		<title>VR Experience</title>
 	</head>
@@ -97,7 +97,7 @@ This is a repo for HTML
 					<li><a href="#">Interact with buildings and products in VR</a></li>
 					<li><a href="#">Use VR for teleconferencing and social media</a></li>
 				</ol>
-				<blockquote cite=>
+				<blockquote>
 					<footer>
 						Virtual reality was once a dream of science fiction.But the Internet was once a dream, 
 						and so were computers and smart phones.The future is coming.
@@ -106,7 +106,7 @@ This is a repo for HTML
 				</blockquote>
 			</aside>
 			
-      <footer>
+      			<footer>
 				<p><small>&copy;2020 VR experience</small></p>
 			</footer>
 		</div> <!--end wrapper div-->
